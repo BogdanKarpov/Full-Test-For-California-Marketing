@@ -187,7 +187,6 @@ class FireFoxCaMarketing(unittest.TestCase):
 
         driver.close()
 
-
     def test3_Firefox_verify_blog_search_functional(self):
 
         # open URL
